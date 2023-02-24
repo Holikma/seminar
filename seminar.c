@@ -20,5 +20,4 @@ int main(){
     int x[l] = {1,2,3,4};
     int y[k] = {-1, 3, 5, 7};
     prienik(x,y);
-    zjednotenie(x,y);
 }
